@@ -1,0 +1,5 @@
+streamlit>=1.39
+pandas>=2.1
+requests>=2.31
+nba_api>=1.5
+pyreadr>=0.5
